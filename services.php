@@ -22,167 +22,147 @@
     <!-- Breadcrumb End -->
 
     <!-- Service Part Start -->
-    <section class="vs-service service-page z-index-common space space-extra-bottom">
-      <div class="container">
-        <div class="row align-items-center justify-content-center">
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.2s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon1.svg" alt="Icon"></div>
-                <span class="ser_number">01</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Clinical Consulting</h2>
-                </a>
-                <p>Nursing, infection control, MDS accuracy, and laboratory operations guidance to strengthen clinical
-                  quality.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Clinical%20Consulting%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
+<section class="vs-service service-page z-index-common space space-extra-bottom">
+  <div class="container">
+    <div class="row align-items-stretch justify-content-center">
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.2s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon1.svg" alt="Icon"></div>
+            <span class="ser_number">01</span>
           </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.3s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon2.svg" alt="Icon"></div>
-                <span class="ser_number">02</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Social Services Consulting</h2>
-                </a>
-                <p>Training, system establishment, interim support, and routine consulting for your social services
-                  program.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Social%20Services%20Consulting%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.4s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon3.svg" alt="Icon"></div>
-                <span class="ser_number">03</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Food & Nutrition Consulting</h2>
-                </a>
-                <p>Training, system establishment, interim RD support, and routine consulting for dietary and
-                  nutrition services.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Food%20%26%20Nutrition%20Consulting%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon4.svg" alt="Icon"></div>
-                <span class="ser_number">04</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Fire & Life Safety Consulting</h2>
-                </a>
-                <p>On-site and remote reviews to help your facility meet fire and life safety code requirements.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Fire%20%26%20Life%20Safety%20Consulting%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon5.svg" alt="Icon"></div>
-                <span class="ser_number">05</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Emergency Preparedness Consulting</h2>
-                </a>
-                <p>Planning, training, and readiness support to keep your facility prepared for any emergency.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Emergency%20Preparedness%20Consulting%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon6.svg" alt="Icon"></div>
-                <span class="ser_number">06</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Nursing Home Administration Consulting</h2>
-                </a>
-                <p>Administrative guidance and operational support for nursing home leadership teams.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Nursing%20Home%20Administration%20Consulting%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon1.svg" alt="Icon"></div>
-                <span class="ser_number">07</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Mock Surveys, IDR/IIDR Preparation & Plan of Correction Writing</h2>
-                </a>
-                <p>Mock surveys, IDR/IIDR preparation, and plan of correction writing to help you navigate survey
-                  outcomes with confidence, plus facility assessment.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Mock%20Survey%20%26%20IDR%20Preparation%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon2.svg" alt="Icon"></div>
-                <span class="ser_number">08</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Directed Plan of Correction Assistance</h2>
-                </a>
-                <p>Hands-on support developing and implementing a directed plan of correction.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Directed%20Plan%20of%20Correction%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon3.svg" alt="Icon"></div>
-                <span class="ser_number">09</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Survey Management</h2>
-                </a>
-                <p>Guidance before, during, and after survey to help your team respond with confidence.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Survey%20Management%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
-              <div class="vs-service__icon">
-                <div class="ser_icon"><img src="assets/img/service/ser-h1-icon4.svg" alt="Icon"></div>
-                <span class="ser_number">10</span>
-              </div>
-              <div class="vs-service__txt">
-                <a href="contact.php">
-                  <h2>Regulatory and Survey Crisis Support</h2>
-                </a>
-                <p>Rapid-response support for regulatory and survey crises, when you need it most.</p>
-                <a href="mailto:kaile.hilliard@granitepeakhs.com?subject=Regulatory%20%26%20Survey%20Crisis%20Support%20Inquiry" class="ser_btn">read more</a>
-              </div>
-            </div>
+          <div class="vs-service__txt">
+            <h2>Clinical Consulting</h2>
+            <p>Nursing, infection control, MDS accuracy, and laboratory operations guidance to strengthen clinical
+              quality.</p>
+            <a href="contact.php" class="ser_btn">read more</a>
           </div>
         </div>
       </div>
-    </section>
-    <!-- Service Part End -->
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.3s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon2.svg" alt="Icon"></div>
+            <span class="ser_number">02</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Social Services Consulting</h2>
+            <p>Training, system establishment, interim support, and routine consulting for your social services
+              program.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.4s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon3.svg" alt="Icon"></div>
+            <span class="ser_number">03</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Food & Nutrition Consulting</h2>
+            <p>Training, system establishment, interim RD support, and routine consulting for dietary and
+              nutrition services.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon4.svg" alt="Icon"></div>
+            <span class="ser_number">04</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Fire & Life Safety Consulting</h2>
+            <p>On-site and remote reviews to help your facility meet fire and life safety code requirements.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon5.svg" alt="Icon"></div>
+            <span class="ser_number">05</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Emergency Preparedness Consulting</h2>
+            <p>Planning, training, and readiness support to keep your facility prepared for any emergency.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon6.svg" alt="Icon"></div>
+            <span class="ser_number">06</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Nursing Home Administration Consulting</h2>
+            <p>Administrative guidance and operational support for nursing home leadership teams.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon1.svg" alt="Icon"></div>
+            <span class="ser_number">07</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Mock Surveys, IDR/IIDR Preparation & Plan of Correction Writing</h2>
+            <p>Mock surveys, IDR/IIDR preparation, and plan of correction writing to help you navigate survey
+              outcomes with confidence, plus facility assessment.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon2.svg" alt="Icon"></div>
+            <span class="ser_number">08</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Directed Plan of Correction Assistance</h2>
+            <p>Hands-on support developing and implementing a directed plan of correction.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon3.svg" alt="Icon"></div>
+            <span class="ser_number">09</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Survey Management</h2>
+            <p>Guidance before, during, and after survey to help your team respond with confidence.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="vs-service__wrap wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="vs-service__icon">
+            <div class="ser_icon"><img src="assets/img/service/ser-h1-icon4.svg" alt="Icon"></div>
+            <span class="ser_number">10</span>
+          </div>
+          <div class="vs-service__txt">
+            <h2>Regulatory and Survey Crisis Support</h2>
+            <p>Rapid-response support for regulatory and survey crises, when you need it most.</p>
+            <a href="contact.php" class="ser_btn">contact us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Service Part End -->
 
     <!-- Appoint Part Start-->
     <section class="vs-appoint style3 space" data-bg-src="assets/img/bg/appoint-bg-h3.jpg">

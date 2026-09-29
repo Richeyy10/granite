@@ -92,9 +92,9 @@
             <li><a href="services.php">Services</a></li>
             <li><a href="meet-the-team.php">Meet the Team</a></li>
             <li><a href="contact.php">Contact Us</a></li>
-            <!-- <li><a href="testimonials.php">Testimonials</a></li>
-            <li><a href="groups.php">Groups</a></li>
-            <li><a href="members.php">Members</a></li> -->
+            <!-- <li><a href="testimonials.php">Testimonials</a></li> -->
+            <li><a href="">Groups</a></li>
+            <li><a href="">Members</a></li>
         </ul>
       </div>
       <div class="mt-50 pt-50">
@@ -151,9 +151,9 @@
                     <li><a href="services.php">Services</a></li>
                     <li><a href="meet-the-team.php">Meet the Team</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
-                    <!-- <li><a href="testimonials.php">Testimonials</a></li>
-                    <li><a href="groups.php">Groups</a></li>
-                    <li><a href="members.php">Members</a></li> -->
+                    <!-- <li><a href="testimonials.php">Testimonials</a></li> -->
+                    <li><a href="">Groups</a></li>
+                    <li><a href="">Members</a></li>
                   </ul>
                 </nav>
               </div>

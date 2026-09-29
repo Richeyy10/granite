@@ -243,7 +243,6 @@ h5,
 h6 {
   font-family: var(--vs-title-font);
   color: var(--vs-title-color);
-  text-transform: capitalize;
   font-weight: 700;
   line-height: 1.4;
 }
@@ -3023,7 +3022,7 @@ a.text-theme:hover,
   width: var(--back-to-top-size);
   height: var(--back-to-top-size);
   transform: rotate(-90deg);
-  background: rgba(var(--vs-theme-color1-rgb), 0.9);
+  background: var(--vs-gold-color);
   border-radius: 50%;
 }
 
@@ -3744,7 +3743,6 @@ a.text-theme:hover,
   color: var(--vs-title-color);
   /* navy */
   font-size: 16px;
-  text-transform: capitalize;
   font-weight: bold;
   margin: 0 10px 0 0;
   line-height: 0px;
@@ -4353,7 +4351,6 @@ a.text-theme:hover,
 .vs-footer__contact .contact_box .con-txt p {
   font-family: var(--vs-title-font);
   color: var(--vs-white-color);
-  text-transform: capitalize;
   font-weight: bold;
   margin: 0;
   transition: 0.5s;
@@ -4593,6 +4590,20 @@ a.text-theme:hover,
 
 .vs-footer {
   /* Large devices */
+}
+
+/* Smaller footer logo */
+.vs-footer__logo img {
+  width: 140px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Slightly smaller on phones */
+@media (max-width: 767px) {
+  .vs-footer__logo img {
+    width: 120px;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -6230,6 +6241,31 @@ a.text-theme:hover,
   /* Extra small devices */
 }
 
+/* Small image next to the experience box */
+.vs-about .ab-img {
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+}
+.vs-about .ab-img img {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  aspect-ratio: auto;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+/* Phones */
+@media (max-width: 767px) {
+  .vs-about .ab-img {
+    width: 100%;
+    max-width: 260px;
+    height: 170px;
+  }
+}
+
 @media (max-width: 575px) {
   .vs-about .ab-img {
     display: none;
@@ -7739,6 +7775,39 @@ a.text-theme:hover,
   margin: 0 auto;
 }
 
+/* Make all service cards the same height */
+.vs-service .swiper-wrapper {
+  align-items: stretch;
+}
+
+.vs-service .swiper-slide {
+  height: auto;
+  display: flex;
+}
+
+.vs-service .vs-service__wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Text area fills the card; button sticks to the bottom */
+.vs-service .vs-service__txt {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.vs-service .vs-service__txt p {
+  flex-grow: 1;
+}
+
+.vs-service .vs-service__txt .ser_btn {
+  margin-top: auto;
+  align-self: flex-start;
+}
+
 @media (max-width: 1300px) {
   .vs-service .vs-title__main {
     max-width: 603px;
@@ -8602,6 +8671,36 @@ a.text-theme:hover,
 
 .vs-service.service-page {
   /* Large devices */
+}
+
+/* Equal-height cards on the services page, with spacing */
+.service-page .row > [class*="col-"] {
+  display: flex;
+  margin-bottom: 30px; /* space between rows */
+}
+
+.service-page .vs-service__wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0; /* avoids doubled spacing if the theme adds its own */
+}
+
+/* Text area fills the card; button sticks to the bottom */
+.service-page .vs-service__txt {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.service-page .vs-service__txt p {
+  flex-grow: 1;
+}
+
+.service-page .vs-service__txt .ser_btn {
+  margin-top: auto;
+  align-self: flex-start;
 }
 
 @media (max-width: 1199px) {
@@ -10216,7 +10315,6 @@ a.text-theme:hover,
   font-family: var(--vs-title-font);
   font-size: 24px;
   color: var(--vs-white-color);
-  text-transform: capitalize;
   font-weight: bold;
   margin: 0;
   transition: 0.5s;

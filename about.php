@@ -22,41 +22,41 @@
     <!-- Breadcrumb End -->
 
     <!-- About Part Start-->
-    <section class="vs-about space">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7">
-            <div class="vs-title animation-style2">
-              <p class="vs-title__sub">
-                <img src="assets/img/icons/title-icon.svg" alt="Icon"> About Granite Peak Healthcare Solutions
-              </p>
-              <h2 class="vs-title__main title-anime">Our Commitment to Quality Care</h2>
-            </div>
-            <div class="vs-about__wrap wow animate__fadeInUp" data-wow-delay="0.2s">
-              <a class="vsBtn" href="contact.php">
-                <span></span>
-                Read More
-              </a>
-              <div class="ab-experience">
-                <h2>25+</h2>
-                <p>Years of Experience</p>
-              </div>
-              <div class="ab-img"><img src="assets/img/about/about-img1-h1.jpg" loading="lazy" alt="image"></div>
-            </div>
+<section class="vs-about space">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7">
+        <div class="vs-title animation-style2">
+          <p class="vs-title__sub">
+            <img src="assets/img/icons/title-icon.svg" alt="Icon"> About Granite Peak Healthcare Solutions
+          </p>
+          <h2 class="vs-title__main title-anime">Our Commitment to Quality Care</h2>
+        </div>
+        <div class="vs-about__wrap wow animate__fadeInUp" data-wow-delay="0.2s">
+          <a class="vsBtn" href="contact.php">
+            <span></span>
+            Contact Us
+          </a>
+          <div class="ab-experience">
+            <h2>1+</h2>
+            <p>Years of Experience</p>
           </div>
-          <div class="col-lg-5">
-            <div class="abImg wow animate__fadeInUp" data-wow-delay="0.2s">
-              <img src="assets/img/about/about-img2-h1.jpg" alt="image" loading="lazy">
-              <p>Granite Peak Healthcare Solutions, LLC is a dedicated healthcare consulting business specializing in
-                providing top-tier consulting services to nursing homes, assisted living facilities, and critical
-                access hospitals. We also offer DON training, speaking engagements, plan of correction writing, and
-                multi-state IDR writing.</p>
-            </div>
-          </div>
+          <div class="ab-img"><img src="assets/img/about/about-img1-h1.jpg" loading="lazy" alt="Healthcare consultant at work"></div>
         </div>
       </div>
-    </section>
-    <!-- About Part End-->
+      <div class="col-lg-5">
+        <div class="abImg wow animate__fadeInUp" data-wow-delay="0.2s">
+          <img src="assets/img/about/about-img2-h1.jpg" alt="Granite Peak Healthcare team" loading="lazy">
+          <p>Granite Peak Healthcare Solutions, LLC is a dedicated healthcare consulting business specializing in
+            providing top-tier consulting services to nursing homes, assisted living facilities, and critical
+            access hospitals. We also offer DON training, speaking engagements, plan of correction writing, and
+            multi-state IDR writing.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- About Part End-->
 
     <!-- Service Part Start -->
     <section class="vs-service z-index-common space" data-bg-src="assets/img/service/ser-bg-h1.jpg">
@@ -155,32 +155,32 @@
       data-bg-src="assets/img/bg/countVideo-h2-bg.png">
       <div class="container">
 
-        <div class="vs-counter" data-bg-src="assets/img/bg/count-h2-bg.jpg">
-          <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.2s">
-            <div class="counter-txt">
-              <h2><span class="counter-number" data-counter="10">10</span>+</h2>
-              <h3>Consulting Services</h3>
-            </div>
-          </div>
-          <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.3s">
-            <div class="counter-txt">
-              <h2><span class="counter-number" data-counter="100">100</span>%</h2>
-              <h3>Tailored to Each Client</h3>
-            </div>
-          </div>
-          <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.4s">
-            <div class="counter-txt">
-              <h2><span class="counter-number" data-counter="3">3</span></h2>
-              <h3>Care Settings Served</h3>
-            </div>
-          </div>
-          <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.5s">
-            <div class="counter-txt">
-              <h2><span class="counter-number" data-counter="25">25</span>+</h2>
-              <h3>Years of Experience</h3>
-            </div>
+        <div class="vs-counter" data-bg-src="assets/img/bg/count--bg.jpg">
+        <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.2s">
+          <div class="counter-txt">
+            <h2><span class="counter-number" data-counter="10">10</span>+</h2>
+            <h3>Consulting Services</h3>
           </div>
         </div>
+        <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.3s">
+          <div class="counter-txt">
+            <h2><span class="counter-number" data-counter="100">100</span>%</h2>
+            <h3>Tailored to Each Client</h3>
+          </div>
+        </div>
+        <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.4s">
+          <div class="counter-txt">
+            <h2><span class="counter-number" data-counter="3">3</span></h2>
+            <h3>Care Settings Served</h3>
+          </div>
+        </div>
+        <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.5s">
+          <div class="counter-txt">
+            <h2><span class="counter-number" data-counter="25">1</span>+</h2>
+            <h3>Years of Experience</h3>
+          </div>
+        </div>
+      </div>
       </div>
     </section>
     <!-- VideoCount Part End -->
@@ -191,7 +191,7 @@
         <div class="row">
           <div class="col-lg-5">
             <div class="chooseImg paralax">
-              <img src="assets/img/bg/choose-img-h2.jpg" alt="image" loading="lazy">
+              <img src="assets/img/bg/chose-h1-img.jpg" alt="image" loading="lazy">
             </div>
           </div>
           <div class="col-lg-7">

@@ -43,10 +43,10 @@
             <h3 class="vs-footer__wrapper-title">Our Services</h3>
             <div class="vs-footer__wrapper-content">
               <ul>
-                <li><a href="services.html">Clinical Consulting</a></li>
-                <li><a href="services.html">Survey Management</a></li>
-                <li><a href="services.html">Mock Surveys & IDR Prep</a></li>
-                <li><a href="services.html">Regulatory Crisis Support</a></li>
+                <li><a href="services.php">Clinical Consulting</a></li>
+                <li><a href="services.php">Survey Management</a></li>
+                <li><a href="services.php">Mock Surveys & IDR Prep</a></li>
+                <li><a href="services.php">Regulatory Crisis Support</a></li>
               </ul>
             </div>
           </div>
@@ -56,9 +56,9 @@
             <div class="vs-footer__wrapper-content">
               <ul>
                 <li><a href="meet-the-team.php">Meet the Team</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="testimonials.html">Testimonials</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="services.php">Services</a></li>
+                <li><a href="index.php">Testimonials</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
           </div>
