@@ -96,7 +96,7 @@
         <div class="row align-items-center gy-40">
           <div class="col-lg-7">
             <div class="vs-title animation-style2">
-              <h2 class="vs-title__main title-anime">Samuel Okhiku, RN, BSN, MBA, GCP, SMQT</h2>
+              <h2 class="vs-title__main title-anime">Samuel Okhiku, RN, BSN, MBA, GCP, SMQT, BS, QCP, LNHA</h2>
             </div>
             <p>Samuel Okhiku is a Registered Nurse with a robust background in healthcare leadership and regulatory
               compliance. As a former surveyor, Director of Nursing, Regional Nurse, and Regulatory Compliance
