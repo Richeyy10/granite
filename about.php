@@ -33,24 +33,24 @@
           <h2 class="vs-title__main title-anime">Our Commitment to Quality Care</h2>
         </div>
         <div class="vs-about__wrap wow animate__fadeInUp" data-wow-delay="0.2s">
+          <p>Granite Peak Healthcare Solutions, LLC is a dedicated healthcare consulting business specializing in
+            providing top-tier consulting services to nursing homes, assisted living facilities, and critical
+            access hospitals. We also offer DON training, speaking engagements, plan of correction writing, and
+            multi-state IDR writing.</p>
           <a class="vsBtn" href="contact.php">
             <span></span>
             Contact Us
           </a>
           <div class="ab-experience">
-            <h2>1+</h2>
+            <h2>10+</h2>
             <p>Years of Experience</p>
           </div>
-          <div class="ab-img"><img src="assets/img/about/about-img1-h1.jpg" loading="lazy" alt="Healthcare consultant at work"></div>
+          <div class="ab-img"><img src="assets/img/about/about-img2-h1.jpg" loading="lazy" alt="Healthcare consultant at work"></div>
         </div>
       </div>
       <div class="col-lg-5">
         <div class="abImg wow animate__fadeInUp" data-wow-delay="0.2s">
-          <img src="assets/img/about/about-img2-h1.jpg" alt="Granite Peak Healthcare team" loading="lazy">
-          <p>Granite Peak Healthcare Solutions, LLC is a dedicated healthcare consulting business specializing in
-            providing top-tier consulting services to nursing homes, assisted living facilities, and critical
-            access hospitals. We also offer DON training, speaking engagements, plan of correction writing, and
-            multi-state IDR writing.</p>
+          <img src="assets/img/about/about-img1-h1.jpg" alt="Granite Peak Healthcare team" loading="lazy">
         </div>
       </div>
     </div>

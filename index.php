@@ -10,7 +10,7 @@
             <div class="col-lg-7 col-md-12">
               <div class="vs-hero__content">
                 <span class="vs-hero__title--sub title-sub">
-                  Healthcare Consulting Solutions
+                  Granite Peak Healthcare Solutions
                 </span>
                 <h1 class="vs-hero__title--main  title-main">
                   Driving Change With Knowledge, Integrity, and Accountability
@@ -28,7 +28,7 @@
           </div>
 
           <div class="vs-hero__shape-bgImg slide-img">
-            <img loading="lazy" src="assets/img/hero/banner-img-h1.png" alt="hero image" class="main-img">
+            <img loading="lazy" src="assets/img/hero/banner-img-h1.jpg" alt="hero image" class="main-img">
           </div>
 
           <div class="star_anime">
@@ -74,7 +74,7 @@
             Read More
           </a>
           <div class="ab-experience">
-            <h1>1+</h1>
+            <h1>20+</h1>
             <p>Years of Experience</p>
           </div>
           <div class="ab-img">
@@ -353,7 +353,7 @@
         </div>
         <div class="counter-body wow animate__fadeInUp" data-wow-delay="0.5s">
           <div class="counter-txt">
-            <h2><span class="counter-number" data-counter="25">1</span>+</h2>
+            <h2><span class="counter-number" data-counter="20">20</span>+</h2>
             <h3>Years of Experience</h3>
           </div>
         </div>
@@ -429,7 +429,7 @@
               <div class="vs-case__wrap wow animate__fadeInUp" data-wow-delay="0.3s">
                 <div class="vs-case__img">
                   <div class="case_img">
-                    <a href="services.php"><img src="assets/img/doctors/case-h1-img2.png" alt="Image"></a>
+                    <a href="services.php"><img src="assets/img/doctors/case-h1-img2.jpg" alt="Image"></a>
                   </div>
                   <span class="label">Remote</span>
                 </div>
@@ -445,7 +445,7 @@
               <div class="vs-case__wrap wow animate__fadeInUp" data-wow-delay="0.4s">
                 <div class="vs-case__img">
                   <div class="case_img">
-                    <a href="services.php"><img src="assets/img/doctors/case-h1-img3.png" alt="Image"></a>
+                    <a href="services.php"><img src="assets/img/doctors/case-h1-img3.jpg" alt="Image"></a>
                   </div>
                   <span class="label">Compliance</span>
                 </div>

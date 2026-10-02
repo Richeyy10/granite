@@ -5223,8 +5223,8 @@ a.text-theme:hover,
 }
 
 .vs-hero__title--main {
-  font-size: 64px;
-  line-height: 75px;
+  font-size: 38px;
+  line-height: 48px;
   text-transform: capitalize;
   color: var(--vs-white-color);
   font-family: var(--vs-title-font);
@@ -5237,7 +5237,7 @@ a.text-theme:hover,
 
 @media (max-width: 1300px) {
   .vs-hero__title--main {
-    font-size: 50px;
+    font-size: 40px;
     line-height: 55px;
   }
 }
@@ -5253,7 +5253,7 @@ a.text-theme:hover,
 }
 
 .vs-hero__title--sub {
-  font-size: 20px;
+  font-size: 48px;
   font-weight: 400;
   color: var(--vs-white-color);
   text-transform: capitalize;
@@ -5282,6 +5282,55 @@ a.text-theme:hover,
 
 .vs-hero__title--para {
   /* Small devices */
+}
+
+/* Hero image: keep it inside the design */
+.vs-hero__shape-bgImg {
+  position: absolute;
+  right: 0;
+  top: 0;              /* anchor from the top so margin-top works */
+  margin-top: 80px;    /* pushes the image down, adjust to taste */
+  width: 45%;
+  max-width: 560px;
+  height: auto;
+  z-index: 1;
+}
+
+.vs-hero__shape-bgImg .main-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 520px;   /* slightly smaller so it doesn't overflow at the bottom */
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 20px;
+}
+
+/* Keep the text above the image */
+.vs-hero__content {
+  position: relative;
+  z-index: 2;
+}
+
+/* Tablet: smaller image, below the text */
+@media (max-width: 991px) {
+  .vs-hero__shape-bgImg {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 70%;
+    margin: 30px auto 0;
+  }
+}
+
+/* Mobile: full width, shorter */
+@media (max-width: 575px) {
+  .vs-hero__shape-bgImg {
+    width: 100%;
+  }
+  .vs-hero__shape-bgImg .main-img {
+    max-height: 350px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -11206,6 +11255,51 @@ a.text-theme:hover,
 
 .vs-case {
   /* Medium devices */
+}
+
+/* Make all slides the same height */
+.vs-case .swiper-wrapper {
+  align-items: stretch;
+}
+
+.vs-case .swiper-slide {
+  height: auto;
+  display: flex;
+}
+
+/* Card fills its slide, text bar sticks to the bottom */
+.vs-case__wrap {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.vs-case__img {
+  position: relative;
+}
+
+/* Same-size image frame, whatever the original image size */
+.vs-case .case_img {
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+}
+
+.vs-case .case_img a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.vs-case .case_img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.vs-case .case_txt {
+  margin-top: auto;
 }
 
 @media (max-width: 991px) {
